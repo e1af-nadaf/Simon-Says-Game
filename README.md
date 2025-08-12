@@ -21,3 +21,5 @@ Step 2: After sequence is shown, click the buttons in the exact same order.
 • CSS
 
 • JavaScript
+
+Feel free to play, modify and improve the game!
